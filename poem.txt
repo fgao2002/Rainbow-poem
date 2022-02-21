@@ -5,6 +5,7 @@ orange
 green
 blue
 red
+indigo
 yellow
 Yello
 pink
